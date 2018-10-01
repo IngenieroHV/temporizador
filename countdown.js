@@ -30,4 +30,4 @@ const countdown = (deadline,elem,finalMessage) => {
   }, 1000)
 };
 
-countdown('Oct 01 2018 12:00:00 GMT-0500', 'clock', '¡Ya empezó el taller!');
+countdown('Oct 01 2018 12:15:00 GMT-0500', 'clock', '¡Ya empezó el taller!');

@@ -1,2 +1,2 @@
 # temporizador
-# taller de diseño web con Bootstrap
+taller de diseño web con Bootstrap
